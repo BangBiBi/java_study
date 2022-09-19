@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 백준17626",
+            "request": "launch",
+            "mainClass": "main.src.백준17626",
+            "projectName": "beackjoon_223c64ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch bj1260",
+            "request": "launch",
+            "mainClass": "main.src.bj1260",
+            "projectName": "beackjoon_223c64ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 백준7567",
+            "request": "launch",
+            "mainClass": "main.src.백준7567",
+            "projectName": "beackjoon_223c64ee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 백준1260",
+            "request": "launch",
+            "mainClass": "main.src.백준1260",
+            "projectName": "beackjoon_223c64ee"
+        },
+        {
+            "type": "java",
             "name": "Launch BJ17626",
             "request": "launch",
             "mainClass": "BJ17626",
